@@ -17,3 +17,9 @@
 ![Ionic](https://img.shields.io/badge/-IonicJs-000000?style=flat&logo=ionic&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+
+![geekbim's github stats](https://github-readme-stats.vercel.app/api?username=adibpwd&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibpwd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=adibpwd&color=lightgray)
