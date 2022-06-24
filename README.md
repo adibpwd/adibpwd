@@ -17,6 +17,7 @@
 ![Ionic](https://img.shields.io/badge/-IonicJs-000000?style=flat&logo=ionic&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&labelColor=ffffff)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab&labelColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
